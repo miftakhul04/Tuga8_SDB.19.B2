@@ -5,21 +5,18 @@
 
 # Tugas Pertemuan 8
 
-# 1. Codingan dan Output  table barang
-![image](https://user-images.githubusercontent.com/81568032/120903944-5d130b80-c673-11eb-98de-53d8c62d4833.png)
+## Membuat desain database
+## 1. membuat table dan memasukan data ke table
+![image](https://user-images.githubusercontent.com/81863210/124553891-87690c00-de5f-11eb-9548-303093639ce5.png)
+![image](https://user-images.githubusercontent.com/81863210/124553939-95b72800-de5f-11eb-9202-3800d28f6933.png)
+![image](https://user-images.githubusercontent.com/81863210/124553974-a36cad80-de5f-11eb-9d86-2ebd2af534db.png)
+## 2. BIKIN FILE koneksi dengan Database
+![image](https://user-images.githubusercontent.com/81863210/124554492-3ad20080-de60-11eb-8de9-5ee9c8628575.png)
+## 3 BIKIN FILE baru buat nampilin semua tabel
+![image](https://user-images.githubusercontent.com/81863210/124555235-0f034a80-de61-11eb-8f66-484aaab7c5dd.png)
+![image](https://user-images.githubusercontent.com/81863210/124555303-25a9a180-de61-11eb-975a-0c3c19dbb574.png)
+![image](https://user-images.githubusercontent.com/81863210/124555356-32c69080-de61-11eb-8306-86bc49d3faae.png)
+## tampilan website
+![image](https://user-images.githubusercontent.com/81863210/124555453-4e319b80-de61-11eb-9127-b020ca70255b.png)
 
-![image](https://user-images.githubusercontent.com/81568032/120903957-816ee800-c673-11eb-8aa3-da5f6565a08d.png)
 
-# 2. Codingan dan Output table Pelanggan
-![image](https://user-images.githubusercontent.com/81568032/120903985-bbd88500-c673-11eb-9a47-64791fbee9a3.png)
-
-![image](https://user-images.githubusercontent.com/81568032/120904009-d7dc2680-c673-11eb-9a7f-bacdcb239c63.png)
-
-# 3. Codingan dan Output table Penjualan
-![image](https://user-images.githubusercontent.com/81568032/120904021-f8a47c00-c673-11eb-852e-5d5335b8c97b.png)
-
-![image](https://user-images.githubusercontent.com/81568032/120904064-3ef9db00-c674-11eb-9c23-b0b967d03e36.png)
-
-
-# TAMPILAN ALL TABLE
-![image](https://user-images.githubusercontent.com/81568032/120904079-5b961300-c674-11eb-899a-b0f47fd2ec32.png)
